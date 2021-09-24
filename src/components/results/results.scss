@@ -1,0 +1,27 @@
+
+.results {
+    display: flex;
+    flex-wrap: wrap;
+    color: var(--violetWhite) ;
+    background-color: var(--results);
+    justify-content: space-around;
+    align-items: center;
+    width: auto;
+    min-height:30%;
+    padding: 55px 0 0 0;
+}
+.search-text{
+    display: flex;
+    margin-top: 10%;    
+    margin-bottom: 10%;
+    padding: 0 24px 0 24px;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 42px;
+    color: var(--violetWhite) ;
+    background-color: var(--whiteBlack);
+}
