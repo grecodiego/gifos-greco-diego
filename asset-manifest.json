@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/gifos-greco-diego/static/css/main.79e92175.chunk.css",
+    "main.js": "/gifos-greco-diego/static/js/main.f52fdc0b.chunk.js",
+    "main.js.map": "/gifos-greco-diego/static/js/main.f52fdc0b.chunk.js.map",
+    "runtime-main.js": "/gifos-greco-diego/static/js/runtime-main.92571c50.js",
+    "runtime-main.js.map": "/gifos-greco-diego/static/js/runtime-main.92571c50.js.map",
+    "static/js/2.d8542ddf.chunk.js": "/gifos-greco-diego/static/js/2.d8542ddf.chunk.js",
+    "static/js/2.d8542ddf.chunk.js.map": "/gifos-greco-diego/static/js/2.d8542ddf.chunk.js.map",
+    "index.html": "/gifos-greco-diego/index.html",
+    "static/css/main.79e92175.chunk.css.map": "/gifos-greco-diego/static/css/main.79e92175.chunk.css.map",
+    "static/js/2.d8542ddf.chunk.js.LICENSE.txt": "/gifos-greco-diego/static/js/2.d8542ddf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92571c50.js",
+    "static/js/2.d8542ddf.chunk.js",
+    "static/css/main.79e92175.chunk.css",
+    "static/js/main.f52fdc0b.chunk.js"
+  ]
+}
